@@ -10,7 +10,7 @@ namespace demo
     {
         static void Main(string[] args)
         {
-            Console.Write("hellllllooooooo 5 CE A CLASS");
+            Console.Write("BD");
             Console.Read();
         }
     }
